@@ -11,6 +11,7 @@ fun print(input: String) {
     if(input == "yes") {
         print("I am hungry. I will eat samosa")
         print("I am hungry. I will eat sev-puri")
+        print("I am hungry. I will eat veg-kolhapuri")
     }
     else if(input == "no") {
         print("I am not hungry. I will do my work")
