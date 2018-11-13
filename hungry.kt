@@ -11,8 +11,11 @@ fun print(input: String) {
     if(input == "yes") {
         print("I am hungry. I will eat samosa")
 <<<<<<< HEAD
+<<<<<<< HEAD
         print("I am hungry. I will eat sev-puri")
         print("I am hungry. I will eat veg-kolhapuri")
+=======
+>>>>>>> parent of 59f73ba... sev-puri
 =======
 >>>>>>> parent of 59f73ba... sev-puri
     }
